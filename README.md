@@ -1,2 +1,5 @@
 # 201B364_projectdemocracy
 this is a new project for promoting democracy.
+India is the largest democracy in the world.
+Bhutan is not a democracy as well.
+Delhi is too hot nowadays.
